@@ -1,5 +1,4 @@
 # TP_Hibernate2
- # Exercic3_TP3 : Gestion des Projets
 
 ## Outils Utilisés
 - **Java 8** : Langage de programmation utilisé pour le développement de l'application.
